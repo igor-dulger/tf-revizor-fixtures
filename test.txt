@@ -1,4 +1,1 @@
 Запуск aws/azure/gce сервера с переменными, где есть дефолтные значения
-
-asdasdasdadas
-gdgdfgdfgd
